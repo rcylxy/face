@@ -1,0 +1,3 @@
+/home/lxy/test/facere/CMakeFiles/edit_cache.dir
+/home/lxy/test/facere/CMakeFiles/rebuild_cache.dir
+/home/lxy/test/facere/CMakeFiles/facere.dir
