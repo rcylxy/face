@@ -1,0 +1,3 @@
+/home/lxy/test/chinese/CMakeFiles/rebuild_cache.dir
+/home/lxy/test/chinese/CMakeFiles/edit_cache.dir
+/home/lxy/test/chinese/CMakeFiles/chinese.dir

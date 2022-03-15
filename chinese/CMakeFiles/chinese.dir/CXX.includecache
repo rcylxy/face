@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lxy/test/chinese/CvxText.h
+ft2build.h
+-
+opencv2/opencv.hpp
+-
+
+/home/lxy/test/chinese/main.cpp
+iostream
+-
+fstream
+-
+stdlib.h
+-
+string
+-
+vector
+-
+opencv2/opencv.hpp
+/home/lxy/test/chinese/opencv2/opencv.hpp
+time.h
+/home/lxy/test/chinese/time.h
+CvxText.h
+/home/lxy/test/chinese/CvxText.h
+
+/usr/include/freetype2/freetype/config/ftheader.h
+
+/usr/include/freetype2/ft2build.h
+freetype/config/ftheader.h
+-
+
