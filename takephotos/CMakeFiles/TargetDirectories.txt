@@ -1,0 +1,3 @@
+/home/lxy/test/takephotos/CMakeFiles/rebuild_cache.dir
+/home/lxy/test/takephotos/CMakeFiles/edit_cache.dir
+/home/lxy/test/takephotos/CMakeFiles/takephotos.dir
