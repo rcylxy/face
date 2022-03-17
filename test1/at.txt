@@ -419,3 +419,6 @@
 /home/lxy/test/ORL_Faces/s21/3.pgm;40
 /home/lxy/test/ORL_Faces/s21/5.pgm;40
 /home/lxy/test/ORL_Faces/s21/8.pgm;40
+
+
+
